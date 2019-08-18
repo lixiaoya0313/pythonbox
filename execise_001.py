@@ -7,8 +7,8 @@
 
 num = 10
 if num > 0:
-    print  ('POSITIVE')
+    print('POSITIVE')
 elif num < 0:
-    print ('NEGATIVE')
-else:
-    num = ('ZERO')
+    print('NEGATIVE')
+else :
+    print('ZERO')
