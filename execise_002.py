@@ -1,6 +1,6 @@
-和 = 0
-数 = 2
-while (数 <= 100):
-    和 += 数
-    数 += 2
-print (和)
+sum = 0
+i = 2
+while (i <= 100):
+    sum += i
+    i += 2
+print (sum)
